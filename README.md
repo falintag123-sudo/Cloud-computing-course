@@ -8,9 +8,13 @@ Mini-projects
 Reflection papers
 # Student Information
 • Name: Junelle Falintag
+
 • Course/Section: BSIT (Block J)
+
 • Instructor: (JENKIELYN TORRES)
+
 • School Year: 2026–2027
+
 # Repository Structure
 cloud-computing-course/
 
@@ -25,7 +29,11 @@ cloud-computing-course/
 └── README.md
 # Key Concepts Covered
 • Cloud Computing Basics
+
 • Service Models (IaaS, PaaS, SaaS)
+
 • Deployment Models (Public, Private, Hybrid, Community)
+
 • Version Control with Git & GitHub
+
 • Cloud Infrastructure Management
